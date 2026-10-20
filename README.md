@@ -6,7 +6,7 @@
 
 The paper assosiated with this dataset is: 
 
-Elena M Meyer, Laura F Galloway, Andrew J Eckert, The evolutionary dynamics of plant mating systems: how bias for studying ‘interesting’ plant reproductive systems could backfire, Annals of Botany, 2025;, mcaf031, [https://doi.org/10.1093/aob/mcaf031](url)
+Elena M Meyer, Laura F Galloway, Andrew J Eckert, The evolutionary dynamics of plant mating systems: how bias for studying ‘interesting’ plant reproductive systems could backfire, Annals of Botany, 2025, mcaf031, [https://doi.org/10.1093/aob/mcaf031](url)
 
 ### Description of the project
 
@@ -37,5 +37,5 @@ The following packages were used:
 
 ### Access information
 
-Other publicly accessible locations of the data: Data Dryad (under review, link forthcoming). 
+Other publicly accessible locations of the data: [Data Dryad](https://datadryad.org/dataset/doi:10.5061/dryad.cc2fqz6hr) with supplemental information on [Zenodo](https://doi.org/10.5281/zenodo.15497700). 
 
