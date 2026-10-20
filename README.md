@@ -12,7 +12,7 @@ Elena M Meyer, Laura F Galloway, Andrew J Eckert, The evolutionary dynamics of p
 
 We conducted a literature review to review and synthesize efforts to quantify mating systems across angiosperms. This data allowed us to examine patterns of potential bias in the existing data based on factors such as family or sexual system, as well as how the data available on plant mating systems has changed over time. Broadly, we revisited the question of the underlying distribution of selfing and the adequacy of our existing data to unravel the complex dynamics of plant mating system evolution. 
 
-#### Files and variable
+#### Files and variables
 
 **Description:** This repository contains:
 
